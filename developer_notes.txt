@@ -1,3 +1,6 @@
 # GCB 22-07-2020
 Starting writing a responsive technical documents page. Earlier today I watched a video advocating semantic HTML,
 so I'm going to start this project with that in mind.
+
+27-07-2020
+It's technically complete. I hate the navbar as is currently implemented.
