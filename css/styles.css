@@ -1,5 +1,11 @@
 /* styles.css */
 
+/* 
+   User Story #14: On regular sized devices (laptops, desktops), 
+   the element with id="navbar" should be shown on the left side 
+   of the screen and should always be visible to the user
+*/
+
 #navbar {
     top: 0;
     left: 0;
@@ -8,9 +14,16 @@
     width: 200px;
     padding-top: 15px;
     padding-left: 15px;
-}@media only screen and (min-width: 900px) {
+}
+
+/* 
+    User Story #15: My Technical Documentation page should use at least one media query.
+*/
+
+@media only screen and (min-width: 900px) {
+
     body {
-background-color:lightblue;
+        background-color:lightblue;
     }
 
 }
